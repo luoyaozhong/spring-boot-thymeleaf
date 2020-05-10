@@ -1,0 +1,5 @@
+server:
+  port: 1000
+spring:  application:    name: spring-boot-thymeleaf
+  thymeleaf:    prefix: classpath:/templates/
+    suffix: .html
